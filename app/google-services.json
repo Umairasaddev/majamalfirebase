@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717051423463",
+    "project_id": "mdjamal-firebase-4ce1c",
+    "storage_bucket": "mdjamal-firebase-4ce1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717051423463:android:c310d198e928fd4cf75042",
+        "android_client_info": {
+          "package_name": "com.example.majamalfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717051423463-i17ouhiqbf79m6l9khs2sqffuslp1aon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwEyx0sCMOpvwm3zVN5y-k1AhY7aHK2dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717051423463-i17ouhiqbf79m6l9khs2sqffuslp1aon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
